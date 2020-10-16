@@ -1,0 +1,19 @@
+.icons{
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  width:50px;
+  border-radius:5px;
+
+        
+    .icon-container{
+      padding:15px;
+    
+        .fa{
+          font-size:20px;
+          color:white;
+        }
+    }
+}
+
